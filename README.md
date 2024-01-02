@@ -12,7 +12,7 @@ I started with UX/UI Design but then found my passion for programming . Currentl
 * 🚀  I'm currently working on [Real Estate App with MERN stack](http://github.com/AdiMondal/mern-estate)
 * 🧠  I'm learning JS, React, Express.js, Node.js, MongoDB, JAVA
 * 🤝  I'm open to collaborating on MERN stack related projects
-* ⚡  I think LEGO Batman is a masterpiece
+  
 
 ### Skills
 
@@ -28,11 +28,6 @@ I started with UX/UI Design but then found my passion for programming . Currentl
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AdiMondal"><img src="https://github-readme-stats.vercel.app/api?username=AdiMondal&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="AdiMondal's GitHub stats" /></a>
 
-<a href="http://www.github.com/AdiMondal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiMondal&stroke=ec4899&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ec4899&currStreakLabel=ffffff&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-
-<a href="https://github.com/AdiMondal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiMondal&langs_count=10&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
